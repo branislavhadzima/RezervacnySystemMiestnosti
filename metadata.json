@@ -1,0 +1,5 @@
+{
+  "name": "Rezervačný Systém Zasadacích Miestností",
+  "description": "Profesionálna aplikácia na správu a rezerváciu zasadacích miestností s admin a užívateľským rozhraním, podporujúca 30-minútové bloky a schvaľovací proces.",
+  "requestFramePermissions": []
+}
