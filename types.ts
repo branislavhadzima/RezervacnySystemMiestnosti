@@ -19,6 +19,7 @@ export interface Reservation {
   endTime: Date;
   status: ReservationStatus;
   user?: UserDetails;
+  purpose?: string;
   note?: string;
 }
 
